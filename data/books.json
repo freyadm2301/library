@@ -1,0 +1,1631 @@
+[
+	{
+		"idbook" : 1,
+		"title" : "The Giver Quartet",
+		"series" : "The Giver",
+		"subtitle" : "The Giver, Gathering Blue, Messenger, Son",
+		"pages" : 772,
+		"language" : "ENG",
+		"publisher" : "HMH"
+	},
+	{
+		"idbook" : 2,
+		"title" : "The Lightning Thief",
+		"series" : "Percy Jackson and the Olympians",
+		"subtitle" : "Book 1",
+		"pages" : 375,
+		"language" : "ENG",
+		"publisher" : "Disney Hyperion"
+	},
+	{
+		"idbook" : 3,
+		"title" : "The Sea of Monsters",
+		"series" : "Percy Jackson and the Olympians",
+		"subtitle" : "Book 2",
+		"pages" : 279,
+		"language" : "ENG",
+		"publisher" : "Disney Hyperion"
+	},
+	{
+		"idbook" : 4,
+		"title" : "The Titan's Curse",
+		"series" : "Percy Jackson and the Olympians",
+		"subtitle" : "Book 3",
+		"pages" : 312,
+		"language" : "ENG",
+		"publisher" : "Disney Hyperion"
+	},
+	{
+		"idbook" : 5,
+		"title" : "The Battle of the Labyrinth",
+		"series" : "Percy Jackson and the Olympians",
+		"subtitle" : "Book 4",
+		"pages" : 361,
+		"language" : "ENG",
+		"publisher" : "Disney Hyperion"
+	},
+	{
+		"idbook" : 6,
+		"title" : "The Last Olympian",
+		"series" : "Percy Jackson and the Olympians",
+		"subtitle" : "Book 5",
+		"pages" : 381,
+		"language" : "ENG",
+		"publisher" : "Disney Hyperion"
+	},
+	{
+		"idbook" : 7,
+		"title" : "Eleanor & Park",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 324,
+		"language" : "ENG",
+		"publisher" : "Orion Books"
+	},
+	{
+		"idbook" : 8,
+		"title" : "Aristotle and Dante Discover the Sectrets of the Universe",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 359,
+		"language" : "ENG",
+		"publisher" : "Simon & Schuster"
+	},
+	{
+		"idbook" : 9,
+		"title" : "Trinkets",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 275,
+		"language" : "ENG",
+		"publisher" : "Little, Brown and Company"
+	},
+	{
+		"idbook" : 10,
+		"title" : "Girls of Paper and Fire",
+		"series" : "Girls of Paper and Fire",
+		"subtitle" : "Book 1",
+		"pages" : 379,
+		"language" : "ENG",
+		"publisher" : "Hodder"
+	},
+	{
+		"idbook" : 11,
+		"title" : "Girls of Storm and Shadow",
+		"series" : "Girls of Paper and Fire",
+		"subtitle" : "Book 2",
+		"pages" : 397,
+		"language" : "ENG",
+		"publisher" : "Hodder"
+	},
+	{
+		"idbook" : 12,
+		"title" : "When the Moon Was Ours",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 270,
+		"language" : "ENG",
+		"publisher" : "Wednesday Books"
+	},
+	{
+		"idbook" : 13,
+		"title" : "The Song of Achilles",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 352,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 14,
+		"title" : "Dare Me",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 326,
+		"language" : "ENG",
+		"publisher" : "Picador"
+	},
+	{
+		"idbook" : 15,
+		"title" : "The Summer of Impossibilities",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 373,
+		"language" : "ENG",
+		"publisher" : "Amulet"
+	},
+	{
+		"idbook" : 16,
+		"title" : "Simon vs. De Verwachtingen van de Rest van de Wereld",
+		"series" : null,
+		"subtitle" : "& zijn liefde voor Blue",
+		"pages" : 272,
+		"language" : "NL",
+		"publisher" : "Blossom Books"
+	},
+	{
+		"idbook" : 17,
+		"title" : "Bezwering",
+		"series" : "The Darkest Powers",
+		"subtitle" : "Boek 1",
+		"pages" : 320,
+		"language" : "NL",
+		"publisher" : "Moon"
+	},
+	{
+		"idbook" : 18,
+		"title" : "Het Geheugenboek",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 380,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 19,
+		"title" : "Allemaal Willen We De Hemel",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 498,
+		"language" : "NL",
+		"publisher" : "Querido"
+	},
+	{
+		"idbook" : 20,
+		"title" : "Cyberoorlog",
+		"series" : null,
+		"subtitle" : "Slagveld Internet",
+		"pages" : 332,
+		"language" : "NL",
+		"publisher" : "De Wereld"
+	},
+	{
+		"idbook" : 21,
+		"title" : "Soulmates",
+		"series" : null,
+		"subtitle" : "Het einde van de wereld of een leven zonder liefde?",
+		"pages" : 479,
+		"language" : "NL",
+		"publisher" : "Veltman Uitgevers"
+	},
+	{
+		"idbook" : 22,
+		"title" : "Het Winterpaleis",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 414,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 23,
+		"title" : "Hype",
+		"series" : null,
+		"subtitle" : "De ultieme roes. De ultieme prijs",
+		"pages" : 270,
+		"language" : "NL",
+		"publisher" : "Chicken House"
+	},
+	{
+		"idbook" : 24,
+		"title" : "Het meisje met alle gaven",
+		"series" : null,
+		"subtitle" : "Niet elke gave is een zegen...",
+		"pages" : 431,
+		"language" : "NL",
+		"publisher" : "A.W. Bruna Uitgevers"
+	},
+	{
+		"idbook" : 25,
+		"title" : "De Hongerspelen",
+		"series" : "De Hongerspelen",
+		"subtitle" : "Boek 1",
+		"pages" : 340,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 26,
+		"title" : "Catching Fire",
+		"series" : "De Hongerspelen",
+		"subtitle" : "Boek 2",
+		"pages" : 352,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 27,
+		"title" : "Spotgaai",
+		"series" : "De Hongerspelen",
+		"subtitle" : "Boek 3",
+		"pages" : 359,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 28,
+		"title" : "De Labyrintrenner",
+		"series" : "De Labyrintrenner",
+		"subtitle" : "Boek 1",
+		"pages" : 382,
+		"language" : "NL",
+		"publisher" : "Uitgeverij Q"
+	},
+	{
+		"idbook" : 29,
+		"title" : "De Schroeiproeven",
+		"series" : "De Labyrintrenner",
+		"subtitle" : "Boek 2",
+		"pages" : 378,
+		"language" : "NL",
+		"publisher" : "Uitgeverij Q"
+	},
+	{
+		"idbook" : 30,
+		"title" : "De Doodskuur",
+		"series" : "De Labyrintrenner",
+		"subtitle" : "Boek 3",
+		"pages" : 365,
+		"language" : "NL",
+		"publisher" : "Uitgeverij Q"
+	},
+	{
+		"idbook" : 31,
+		"title" : "De Sciencefictionschrijver",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 221,
+		"language" : "NL",
+		"publisher" : "Uigeverij Marmer"
+	},
+	{
+		"idbook" : 32,
+		"title" : "Deep Blue Geheimen van de zee",
+		"series" : "Waterfire Saga",
+		"subtitle" : "Boek 1",
+		"pages" : 276,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 33,
+		"title" : "De Blauwe Diamant",
+		"series" : "Waterfire Saga",
+		"subtitle" : "Boek 2",
+		"pages" : 256,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 34,
+		"title" : "Donker Getij",
+		"series" : "Waterfire Saga",
+		"subtitle" : "Boek 3",
+		"pages" : 322,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 35,
+		"title" : "Koud Vuur",
+		"series" : "The Spiritwalker",
+		"subtitle" : "Boek 2",
+		"pages" : 542,
+		"language" : "NL",
+		"publisher" : "Luitingh Fantasy"
+	},
+	{
+		"idbook" : 36,
+		"title" : "Zero",
+		"series" : null,
+		"subtitle" : "Zij weten wat jij doet",
+		"pages" : 357,
+		"language" : "NL",
+		"publisher" : "Van Holkema & Warendorf"
+	},
+	{
+		"idbook" : 37,
+		"title" : "De Perfecte Moordenaar",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 282,
+		"language" : "NL",
+		"publisher" : "Ambo Anthos"
+	},
+	{
+		"idbook" : 38,
+		"title" : "The Jewel",
+		"series" : "The Lone City",
+		"subtitle" : "Boek 1",
+		"pages" : 293,
+		"language" : "NL",
+		"publisher" : "Young & Awesome"
+	},
+	{
+		"idbook" : 39,
+		"title" : "Opgesloten",
+		"series" : "The Lone City",
+		"subtitle" : "Boek 1.5",
+		"pages" : 91,
+		"language" : "NL",
+		"publisher" : "Young & Awesome"
+	},
+	{
+		"idbook" : 40,
+		"title" : "De ruïnes van Gorlan",
+		"series" : "De Grijze Jager",
+		"subtitle" : "Boek 1",
+		"pages" : 285,
+		"language" : "NL",
+		"publisher" : "Gottmer"
+	},
+	{
+		"idbook" : 41,
+		"title" : "Het boek van Gevonden Voorwerpen",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 395,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 42,
+		"title" : "Achter de Spiegel",
+		"series" : "Reckless",
+		"subtitle" : "Boek 1",
+		"pages" : 296,
+		"language" : "NL",
+		"publisher" : "Querido"
+	},
+	{
+		"idbook" : 43,
+		"title" : "Levende Schaduwen",
+		"series" : "Reckless",
+		"subtitle" : "Boek 2",
+		"pages" : 398,
+		"language" : "NL",
+		"publisher" : "Querido"
+	},
+	{
+		"idbook" : 44,
+		"title" : "Het Drakenpad",
+		"series" : "The Dagger and the Coin",
+		"subtitle" : "Boek 1",
+		"pages" : 447,
+		"language" : "NL",
+		"publisher" : "Luitingh Fantasy"
+	},
+	{
+		"idbook" : 45,
+		"title" : "Voor de Val",
+		"series" : null,
+		"subtitle" : "Twee overlevenden Een vriendschap",
+		"pages" : 383,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 46,
+		"title" : "Ravengod",
+		"series" : "Ravenstorm",
+		"subtitle" : "Boek 4",
+		"pages" : 431,
+		"language" : "NL",
+		"publisher" : "Luitingh Fantasy"
+	},
+	{
+		"idbook" : 47,
+		"title" : "Gevangen",
+		"series" : "Under the Dome",
+		"subtitle" : "Boek 1",
+		"pages" : 511,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 48,
+		"title" : "Dit Laaiende Vuur",
+		"series" : "This Raging Light",
+		"subtitle" : "Boek 1",
+		"pages" : 228,
+		"language" : "NL",
+		"publisher" : "Querido"
+	},
+	{
+		"idbook" : 49,
+		"title" : "Warm Bodies",
+		"series" : "Warm Bodies",
+		"subtitle" : "Boek 1",
+		"pages" : 269,
+		"language" : "NL",
+		"publisher" : "The House Of Books"
+	},
+	{
+		"idbook" : 50,
+		"title" : "Bloedverwanten",
+		"series" : "De Alchemisten",
+		"subtitle" : "Boek 1",
+		"pages" : 445,
+		"language" : "NL",
+		"publisher" : "Moon"
+	},
+	{
+		"idbook" : 51,
+		"title" : "Negen Volmaakte Vreemden",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 485,
+		"language" : "NL",
+		"publisher" : "A.W. Bruna Uitgevers"
+	},
+	{
+		"idbook" : 52,
+		"title" : "Dans Met Mij",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 479,
+		"language" : "NL",
+		"publisher" : "De Fontein"
+	},
+	{
+		"idbook" : 53,
+		"title" : "Vier Plus Één",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 397,
+		"language" : "NL",
+		"publisher" : "De Fontein"
+	},
+	{
+		"idbook" : 54,
+		"title" : "Voor Jou",
+		"series" : "Me Before You",
+		"subtitle" : "Boek 1",
+		"pages" : 405,
+		"language" : "NL",
+		"publisher" : "De Fontein"
+	},
+	{
+		"idbook" : 55,
+		"title" : "Lex",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 245,
+		"language" : "NL",
+		"publisher" : "Ambo Anthos"
+	},
+	{
+		"idbook" : 56,
+		"title" : "Hex",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 340,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 57,
+		"title" : "Eragon",
+		"series" : "Erfgoed",
+		"subtitle" : "Boek 1",
+		"pages" : 441,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 58,
+		"title" : "Oudste",
+		"series" : "Erfgoed",
+		"subtitle" : "Boek 2",
+		"pages" : 571,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 59,
+		"title" : "Brisingr",
+		"series" : "Erfgoed",
+		"subtitle" : "Boek 3",
+		"pages" : 570,
+		"language" : "NL",
+		"publisher" : "Mynx"
+	},
+	{
+		"idbook" : 60,
+		"title" : "Erfenis",
+		"series" : "Erfgoed",
+		"subtitle" : "Boek 4",
+		"pages" : 684,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 61,
+		"title" : "Carry On",
+		"series" : "Simon Snow",
+		"subtitle" : "Boek 1",
+		"pages" : 496,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 62,
+		"title" : "Inwijding",
+		"series" : "Divergent",
+		"subtitle" : "Boek 1",
+		"pages" : 348,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 63,
+		"title" : "Insurgent",
+		"series" : "Divergent",
+		"subtitle" : "Boek 2",
+		"pages" : 365,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 64,
+		"title" : "Samensmelting",
+		"series" : "Divergent",
+		"subtitle" : "Boek 3",
+		"pages" : 380,
+		"language" : "NL",
+		"publisher" : "Van Goor"
+	},
+	{
+		"idbook" : 65,
+		"title" : "Het Rosie Project",
+		"series" : "Don Tillman",
+		"subtitle" : "Boek 1",
+		"pages" : 330,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 66,
+		"title" : "Timboektoe",
+		"series" : "Timboektoe",
+		"subtitle" : "Complete Editie",
+		"pages" : 816,
+		"language" : "NL",
+		"publisher" : "Carry Slee"
+	},
+	{
+		"idbook" : 67,
+		"title" : "The Longest Ride",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 410,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 68,
+		"title" : "Dodenrit",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 380,
+		"language" : "NL",
+		"publisher" : "Full Moon"
+	},
+	{
+		"idbook" : 69,
+		"title" : "Dromenjagers",
+		"series" : null,
+		"subtitle" : "Om de toekomst te beschermen, moet David het verleden reddden...",
+		"pages" : 302,
+		"language" : "NL",
+		"publisher" : "Chicken House"
+	},
+	{
+		"idbook" : 70,
+		"title" : "De Ring van Möbius",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 444,
+		"language" : "NL",
+		"publisher" : "Sijthof"
+	},
+	{
+		"idbook" : 71,
+		"title" : "We Zijn Onszelf Niet",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 621,
+		"language" : "NL",
+		"publisher" : "Bezige Bij"
+	},
+	{
+		"idbook" : 72,
+		"title" : "Wij Waren Hier",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 251,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 73,
+		"title" : "Onderschepping",
+		"series" : "Jeremy Fisk",
+		"subtitle" : "Boek 1",
+		"pages" : 336,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 74,
+		"title" : "Opstand",
+		"series" : "The Insurrection",
+		"subtitle" : "Boek 1",
+		"pages" : 554,
+		"language" : "NL",
+		"publisher" : "Boekerij"
+	},
+	{
+		"idbook" : 75,
+		"title" : "Griekse en Romeinse Mythen en Sagen",
+		"series" : "Mythen en Sagen",
+		"subtitle" : null,
+		"pages" : 316,
+		"language" : "NL",
+		"publisher" : "Uitgeverij Verba"
+	},
+	{
+		"idbook" : 76,
+		"title" : "De Ijzerproef",
+		"series" : "Magisterium",
+		"subtitle" : "Boek 1",
+		"pages" : 316,
+		"language" : "NL",
+		"publisher" : "Moon"
+	},
+	{
+		"idbook" : 77,
+		"title" : "Scheepsberichten",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 394,
+		"language" : "NL",
+		"publisher" : "De Geus"
+	},
+	{
+		"idbook" : 78,
+		"title" : "Het Teplitzkwartet",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 265,
+		"language" : "NL",
+		"publisher" : "Manteau Misdaad"
+	},
+	{
+		"idbook" : 79,
+		"title" : "Dante's Trompet",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 180,
+		"language" : "NL",
+		"publisher" : "Rap"
+	},
+	{
+		"idbook" : 80,
+		"title" : "Oblomov",
+		"series" : null,
+		"subtitle" : "Boek 1 - 4",
+		"pages" : 574,
+		"language" : "NL",
+		"publisher" : "D.A.P. Reinaert"
+	},
+	{
+		"idbook" : 81,
+		"title" : "Smilla's Gevoel Voor Sneeuw",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 429,
+		"language" : "NL",
+		"publisher" : "Meulenhoff"
+	},
+	{
+		"idbook" : 82,
+		"title" : "De Elfenkoningin",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 631,
+		"language" : "NL",
+		"publisher" : "Meulenhoff"
+	},
+	{
+		"idbook" : 83,
+		"title" : "De Celesta",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 189,
+		"language" : "NL",
+		"publisher" : "De Geus"
+	},
+	{
+		"idbook" : 84,
+		"title" : "De Eeuw van de Ekster",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 472,
+		"language" : "NL",
+		"publisher" : "Meulenhoff"
+	},
+	{
+		"idbook" : 85,
+		"title" : "Mijn Peepee",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 189,
+		"language" : "NL",
+		"publisher" : "De Geus"
+	},
+	{
+		"idbook" : 86,
+		"title" : "Spiderman: Eeuwig Jong",
+		"series" : null,
+		"subtitle" : "Een verhaal uit het Marvel Universum",
+		"pages" : 287,
+		"language" : "NL",
+		"publisher" : "Luitingh-Sijthoff"
+	},
+	{
+		"idbook" : 87,
+		"title" : "A Game of Thrones",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 1",
+		"pages" : 780,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 88,
+		"title" : "A Clash of Kings",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 2",
+		"pages" : 873,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 89,
+		"title" : "A Storm of Swords 1: Steel and Snow",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 3.1",
+		"pages" : 569,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 90,
+		"title" : "A Storm of Swords 2: Blood and Gold",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 3.2",
+		"pages" : 554,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 91,
+		"title" : "A Feast for Crows",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 4",
+		"pages" : 776,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 92,
+		"title" : "A Dance with Dragons",
+		"series" : "A Song of Ice and Fire",
+		"subtitle" : "Book 5",
+		"pages" : 1117,
+		"language" : "ENG",
+		"publisher" : "Harper Voyager"
+	},
+	{
+		"idbook" : 93,
+		"title" : "Red Queen",
+		"series" : "Red Queen",
+		"subtitle" : "Book 1",
+		"pages" : 383,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 94,
+		"title" : "Glass Sword",
+		"series" : "Red Queen",
+		"subtitle" : "Book 2",
+		"pages" : 440,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 95,
+		"title" : "King's Cage",
+		"series" : "Red Queen",
+		"subtitle" : "Book 3",
+		"pages" : 507,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 96,
+		"title" : "War Storm",
+		"series" : "Red Queen",
+		"subtitle" : "Book 4",
+		"pages" : 657,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 97,
+		"title" : "The Fault in our Stars",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 313,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 98,
+		"title" : "Paper Towns",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 305,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 99,
+		"title" : "Looking For Alaska",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 262,
+		"language" : "ENG",
+		"publisher" : "Harper Collins"
+	},
+	{
+		"idbook" : 100,
+		"title" : "An Abundance of Katherines",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 225,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 101,
+		"title" : "Will Grayson, Will Grayson",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 308,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 102,
+		"title" : "The Hobbit",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 176,
+		"language" : "ENG",
+		"publisher" : "Houghton Mifflin Harcourt"
+	},
+	{
+		"idbook" : 103,
+		"title" : "The Fellowship of the Ring",
+		"series" : "The Lord of the Rings",
+		"subtitle" : "Book 1",
+		"pages" : 398,
+		"language" : "ENG",
+		"publisher" : "Houghton Mifflin Harcourt"
+	},
+	{
+		"idbook" : 104,
+		"title" : "The Two Towers",
+		"series" : "The Lord of the Rings",
+		"subtitle" : "Book 2",
+		"pages" : 322,
+		"language" : "ENG",
+		"publisher" : "Houghton Mifflin Harcourt"
+	},
+	{
+		"idbook" : 105,
+		"title" : "The Return of the King",
+		"series" : "The Lord of the Rings",
+		"subtitle" : "Book 3",
+		"pages" : 276,
+		"language" : "ENG",
+		"publisher" : "Houghton Mifflin Harcourt"
+	},
+	{
+		"idbook" : 106,
+		"title" : "Leah on The Offbeat",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 339,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 107,
+		"title" : "The Problem With Forever",
+		"series" : null,
+		"subtitle" : "Some secrets go too deep for words",
+		"pages" : 474,
+		"language" : "ENG",
+		"publisher" : "Harlequin Mira Ink"
+	},
+	{
+		"idbook" : 108,
+		"title" : "Pride and Prejudice",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 307,
+		"language" : "ENG",
+		"publisher" : "Macmillen Popular Classics"
+	},
+	{
+		"idbook" : 109,
+		"title" : "Sense and Sensibility",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 307,
+		"language" : "ENG",
+		"publisher" : "Macmillen Popular Classics"
+	},
+	{
+		"idbook" : 110,
+		"title" : "Restless",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 325,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 111,
+		"title" : "Rise of the Heroes",
+		"series" : "Hero.com",
+		"subtitle" : "Book 1",
+		"pages" : 260,
+		"language" : "ENG",
+		"publisher" : "Oxfard University Press"
+	},
+	{
+		"idbook" : 112,
+		"title" : "This Is Where I Am",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 466,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 113,
+		"title" : "Possessing Rayne",
+		"series" : "Rayne",
+		"subtitle" : "Book 1",
+		"pages" : 299,
+		"language" : "ENG",
+		"publisher" : "Scholastic"
+	},
+	{
+		"idbook" : 114,
+		"title" : "The Complete Illustrated Lewis Carroll",
+		"series" : null,
+		"subtitle" : "All of Lewis Carroll's stroies, verses, puzzles, acrostics, 'phantasmagoria' and other comic writings",
+		"pages" : 1232,
+		"language" : "ENG",
+		"publisher" : "Wordsworth Editions"
+	},
+	{
+		"idbook" : 115,
+		"title" : "The Testing",
+		"series" : "The Testing",
+		"subtitle" : "Book 1",
+		"pages" : 382,
+		"language" : "ENG",
+		"publisher" : "Templar"
+	},
+	{
+		"idbook" : 116,
+		"title" : "Independant Study",
+		"series" : "The Testing",
+		"subtitle" : "Book 2",
+		"pages" : 382,
+		"language" : "ENG",
+		"publisher" : "Hot Key Books"
+	},
+	{
+		"idbook" : 117,
+		"title" : "Graduation Day",
+		"series" : "The Testing",
+		"subtitle" : "Book 3",
+		"pages" : 291,
+		"language" : "ENG",
+		"publisher" : "Houghton Mifflin Harcourt"
+	},
+	{
+		"idbook" : 118,
+		"title" : "City Of Bones",
+		"series" : "The Shadowhunter Chronicles",
+		"subtitle" : "The Mortal Instrument Book 1",
+		"pages" : 442,
+		"language" : "ENG",
+		"publisher" : "Walker Books"
+	},
+	{
+		"idbook" : 119,
+		"title" : "Of Fire and Stars",
+		"series" : "Of Fire and Stars",
+		"subtitle" : "Book 1",
+		"pages" : 389,
+		"language" : "ENG",
+		"publisher" : "Balzer + Bray"
+	},
+	{
+		"idbook" : 120,
+		"title" : "Toffee",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 399,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 121,
+		"title" : "A Dark Inheritance",
+		"series" : "Unicorne Files",
+		"subtitle" : "Book 1",
+		"pages" : 270,
+		"language" : "ENG",
+		"publisher" : "Chicken House"
+	},
+	{
+		"idbook" : 122,
+		"title" : "Revolution",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 472,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 123,
+		"title" : "Pandemonium Road",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 144,
+		"language" : "ENG",
+		"publisher" : "Snowbooks"
+	},
+	{
+		"idbook" : 124,
+		"title" : "Dear Evan Hansen",
+		"series" : null,
+		"subtitle" : "The Novel",
+		"pages" : 358,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 125,
+		"title" : "Beauty Sleep",
+		"series" : null,
+		"subtitle" : "What would you give for the chance to live again?",
+		"pages" : 438,
+		"language" : "ENG",
+		"publisher" : "Usborne"
+	},
+	{
+		"idbook" : 126,
+		"title" : "The Winter House",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 373,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 127,
+		"title" : "Atlantis",
+		"series" : "Jack Howard",
+		"subtitle" : "Book 1",
+		"pages" : 451,
+		"language" : "ENG",
+		"publisher" : "Headline"
+	},
+	{
+		"idbook" : 128,
+		"title" : "A Thousand Pieces of You",
+		"series" : "Firebird",
+		"subtitle" : "Book 1",
+		"pages" : 357,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 129,
+		"title" : "Ten Thousand Skies Above You",
+		"series" : "Firebird",
+		"subtitle" : "Book 2",
+		"pages" : 426,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 130,
+		"title" : "A Million Worlds With You",
+		"series" : "Firebird",
+		"subtitle" : "Book 3",
+		"pages" : 419,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 131,
+		"title" : "The Reckoning",
+		"series" : null,
+		"subtitle" : "What turns a good man into a killer?",
+		"pages" : 500,
+		"language" : "ENG",
+		"publisher" : "Hodder"
+	},
+	{
+		"idbook" : 132,
+		"title" : "The Curious Incident of the Dog in the Night-Time",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 272,
+		"language" : "ENG",
+		"publisher" : "Vintage"
+	},
+	{
+		"idbook" : 133,
+		"title" : "Evermore",
+		"series" : "Everless",
+		"subtitle" : "Book 2",
+		"pages" : 346,
+		"language" : "ENG",
+		"publisher" : "Orchard"
+	},
+	{
+		"idbook" : 134,
+		"title" : "Brave New World",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 229,
+		"language" : "ENG",
+		"publisher" : "Vintage"
+	},
+	{
+		"idbook" : 135,
+		"title" : "Fallen",
+		"series" : "Fallen",
+		"subtitle" : "Book 1",
+		"pages" : 452,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 136,
+		"title" : "Torment",
+		"series" : "Fallen",
+		"subtitle" : "Book 2",
+		"pages" : 452,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 137,
+		"title" : "Passion",
+		"series" : "Fallen",
+		"subtitle" : "Book 3",
+		"pages" : 420,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 138,
+		"title" : "Rapture",
+		"series" : "Fallen",
+		"subtitle" : "Book 4",
+		"pages" : 448,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 139,
+		"title" : "Unforgiven",
+		"series" : "Fallen",
+		"subtitle" : "Book 5",
+		"pages" : 357,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 140,
+		"title" : "The Night Rainbow",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 263,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 141,
+		"title" : "Everything Leads To You",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 307,
+		"language" : "ENG",
+		"publisher" : "Speak"
+	},
+	{
+		"idbook" : 142,
+		"title" : "Every Day",
+		"series" : "Every Day",
+		"subtitle" : "Book 1",
+		"pages" : 322,
+		"language" : "ENG",
+		"publisher" : "Ember"
+	},
+	{
+		"idbook" : 143,
+		"title" : "Ash",
+		"series" : null,
+		"subtitle" : "It's not the fairytale you remember",
+		"pages" : 264,
+		"language" : "ENG",
+		"publisher" : "Little, Brown and Company"
+	},
+	{
+		"idbook" : 144,
+		"title" : "We Were Liars",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 225,
+		"language" : "ENG",
+		"publisher" : "Hot Key Books"
+	},
+	{
+		"idbook" : 145,
+		"title" : "The Highest Tide",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 246,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 146,
+		"title" : "Burning Out",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 319,
+		"language" : "ENG",
+		"publisher" : "Snowbooks"
+	},
+	{
+		"idbook" : 147,
+		"title" : "Some Great Thing",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 357,
+		"language" : "ENG",
+		"publisher" : "Vintage"
+	},
+	{
+		"idbook" : 148,
+		"title" : "You Had Me At Hello",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 436,
+		"language" : "ENG",
+		"publisher" : "Avon"
+	},
+	{
+		"idbook" : 149,
+		"title" : "One Of Us Is Lying",
+		"series" : "One Of Us Is Lying",
+		"subtitle" : "Book 1",
+		"pages" : 358,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 150,
+		"title" : "Cloud Atlas",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 509,
+		"language" : "ENG",
+		"publisher" : "Random House"
+	},
+	{
+		"idbook" : 151,
+		"title" : "Private Peaceful",
+		"series" : null,
+		"subtitle" : "Innocence and love, courage and cowardice",
+		"pages" : 185,
+		"language" : "ENG",
+		"publisher" : "Harper Collins"
+	},
+	{
+		"idbook" : 152,
+		"title" : "I'll Give You The Sun",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 371,
+		"language" : "ENG",
+		"publisher" : "Speak"
+	},
+	{
+		"idbook" : 153,
+		"title" : "The Time Traveler's Wife",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 615,
+		"language" : "ENG",
+		"publisher" : "Vintage"
+	},
+	{
+		"idbook" : 154,
+		"title" : "This Is Where It Ends",
+		"series" : null,
+		"subtitle" : "Everyone has a reason to fear the boy with the gun",
+		"pages" : 282,
+		"language" : "ENG",
+		"publisher" : "Sourcebooks Fire"
+	},
+	{
+		"idbook" : 155,
+		"title" : "All The Bright Places",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 378,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 156,
+		"title" : "Fated",
+		"series" : "The Soul Seekers",
+		"subtitle" : "Book 1",
+		"pages" : 447,
+		"language" : "ENG",
+		"publisher" : "MacMillan"
+	},
+	{
+		"idbook" : 157,
+		"title" : "Echo",
+		"series" : "The Soul Seekers",
+		"subtitle" : "Book 2",
+		"pages" : 396,
+		"language" : "ENG",
+		"publisher" : "MacMillan"
+	},
+	{
+		"idbook" : 158,
+		"title" : "Mystic",
+		"series" : "The Soul Seekers",
+		"subtitle" : "Book 3",
+		"pages" : 341,
+		"language" : "ENG",
+		"publisher" : "MacMillan"
+	},
+	{
+		"idbook" : 159,
+		"title" : "Winter's Bullet",
+		"series" : null,
+		"subtitle" : "One boy. One girl. One shot to stop the war.",
+		"pages" : 209,
+		"language" : "ENG",
+		"publisher" : "Chicken House"
+	},
+	{
+		"idbook" : 160,
+		"title" : "Orfeo",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 369,
+		"language" : "ENG",
+		"publisher" : "W.W Norton & Company"
+	},
+	{
+		"idbook" : 161,
+		"title" : "Indignation",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 231,
+		"language" : "ENG",
+		"publisher" : "Vintage"
+	},
+	{
+		"idbook" : 162,
+		"title" : "Black Beauty",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 211,
+		"language" : "ENG",
+		"publisher" : "Trans Atlantic Press"
+	},
+	{
+		"idbook" : 163,
+		"title" : "History Is All You Left Me",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 294,
+		"language" : "ENG",
+		"publisher" : "SOHO Teen"
+	},
+	{
+		"idbook" : 164,
+		"title" : "They Both Die At The End",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 368,
+		"language" : "ENG",
+		"publisher" : "Simon & Schuster"
+	},
+	{
+		"idbook" : 165,
+		"title" : "Hunted",
+		"series" : null,
+		"subtitle" : "A Beauty deadlier than the Beast",
+		"pages" : 374,
+		"language" : "ENG",
+		"publisher" : "Harper Teen"
+	},
+	{
+		"idbook" : 166,
+		"title" : "Killing Sound",
+		"series" : null,
+		"subtitle" : "Out if Sight. Out if your mind.",
+		"pages" : 317,
+		"language" : "ENG",
+		"publisher" : "Chicken House"
+	},
+	{
+		"idbook" : 167,
+		"title" : "Dracula",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 381,
+		"language" : "ENG",
+		"publisher" : "Macmillen Popular Classics"
+	},
+	{
+		"idbook" : 168,
+		"title" : "Gulliver's Travels",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 224,
+		"language" : "ENG",
+		"publisher" : "Wordsworth Classics"
+	},
+	{
+		"idbook" : 169,
+		"title" : "All Our Yesterdays",
+		"series" : null,
+		"subtitle" : "Kill the past to save the future",
+		"pages" : 360,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 170,
+		"title" : "Around The World In Eighty Days",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 184,
+		"language" : "ENG",
+		"publisher" : "Macmillen Popular Classics"
+	},
+	{
+		"idbook" : 171,
+		"title" : "Before We Met",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 276,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury"
+	},
+	{
+		"idbook" : 172,
+		"title" : "Queens Of Geek",
+		"series" : null,
+		"subtitle" : "Three friends, two love stories, one convention",
+		"pages" : 262,
+		"language" : "ENG",
+		"publisher" : "Swoon Reads"
+	},
+	{
+		"idbook" : 173,
+		"title" : "The Iron Trial",
+		"series" : "Magisterium",
+		"subtitle" : "Book 1",
+		"pages" : 295,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 174,
+		"title" : "The Copper Gauntlet",
+		"series" : "Magisterium",
+		"subtitle" : "Book 2",
+		"pages" : 264,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 175,
+		"title" : "The Bronze Key",
+		"series" : "Magisterium",
+		"subtitle" : "Book 3",
+		"pages" : 249,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 176,
+		"title" : "The Silver Mask",
+		"series" : "Magisterium",
+		"subtitle" : "Book 4",
+		"pages" : 232,
+		"language" : "ENG",
+		"publisher" : "Corgi Books"
+	},
+	{
+		"idbook" : 177,
+		"title" : "The Bane Chronicles",
+		"series" : "The Shadowhunter Chronicles",
+		"subtitle" : "The Bane Chronicles 1 - 11",
+		"pages" : 503,
+		"language" : "ENG",
+		"publisher" : "Walker Books"
+	},
+	{
+		"idbook" : 178,
+		"title" : "Let It Snow",
+		"series" : null,
+		"subtitle" : null,
+		"pages" : 354,
+		"language" : "ENG",
+		"publisher" : "Penguin"
+	},
+	{
+		"idbook" : 179,
+		"title" : "Orphan Black and Philosophy",
+		"series" : "Popular Culture and Philosophy",
+		"subtitle" : "Grand Theft DNA",
+		"pages" : 233,
+		"language" : "ENG",
+		"publisher" : "Open Court"
+	},
+	{
+		"idbook" : 180,
+		"title" : "A Darker Shade",
+		"series" : null,
+		"subtitle" : "17 Swedish stories of murder, mystery and suspense",
+		"pages" : 356,
+		"language" : "ENG",
+		"publisher" : "Head od Zeus"
+	},
+	{
+		"idbook" : 181,
+		"title" : "The Twitter Diaries",
+		"series" : null,
+		"subtitle" : "A tale of 2 cities, 1 friendship, 140 characters",
+		"pages" : 377,
+		"language" : "ENG",
+		"publisher" : "Bloomsbury Reader"
+	}
+]

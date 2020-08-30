@@ -1,0 +1,762 @@
+[
+	{
+		"idauthor" : 1,
+		"firstName" : "Megan",
+		"lastName" : "Abbott"
+	},
+	{
+		"idauthor" : 2,
+		"firstName" : "Becky",
+		"lastName" : "Albertalli"
+	},
+	{
+		"idauthor" : 3,
+		"firstName" : "Rachael",
+		"lastName" : "Allen"
+	},
+	{
+		"idauthor" : 4,
+		"firstName" : "Tove",
+		"lastName" : "Alsterdal"
+	},
+	{
+		"idauthor" : 5,
+		"firstName" : "Jennifer L.",
+		"lastName" : "Armentrout"
+	},
+	{
+		"idauthor" : 6,
+		"firstName" : "Kelley",
+		"lastName" : "Armstrong"
+	},
+	{
+		"idauthor" : 7,
+		"firstName" : "Jane",
+		"lastName" : "Austen"
+	},
+	{
+		"idauthor" : 8,
+		"firstName" : "Lara",
+		"lastName" : "Avery"
+	},
+	{
+		"idauthor" : 9,
+		"firstName" : "Victoria",
+		"lastName" : "Aveyard"
+	},
+	{
+		"idauthor" : 10,
+		"firstName" : "Els",
+		"lastName" : "Beerten"
+	},
+	{
+		"idauthor" : 11,
+		"firstName" : "Albert",
+		"lastName" : "Benschop"
+	},
+	{
+		"idauthor" : 12,
+		"firstName" : "Holly",
+		"lastName" : "Black"
+	},
+	{
+		"idauthor" : 13,
+		"firstName" : "Cilla",
+		"lastName" : "Börjlind"
+	},
+	{
+		"idauthor" : 14,
+		"firstName" : "Rolf",
+		"lastName" : "Börjlind"
+	},
+	{
+		"idauthor" : 15,
+		"firstName" : "Holly",
+		"lastName" : "Bourne"
+	},
+	{
+		"idauthor" : 16,
+		"firstName" : "William",
+		"lastName" : "Boyd"
+	},
+	{
+		"idauthor" : 17,
+		"firstName" : "John",
+		"lastName" : "Boyne"
+	},
+	{
+		"idauthor" : 18,
+		"firstName" : "Andy",
+		"lastName" : "Briggs"
+	},
+	{
+		"idauthor" : 19,
+		"firstName" : "Jan L.",
+		"lastName" : "Broeckx"
+	},
+	{
+		"idauthor" : 20,
+		"firstName" : "Melvin",
+		"lastName" : "Burgess"
+	},
+	{
+		"idauthor" : 21,
+		"firstName" : "Karen",
+		"lastName" : "Campbell"
+	},
+	{
+		"idauthor" : 22,
+		"firstName" : "Kate",
+		"lastName" : "Cann"
+	},
+	{
+		"idauthor" : 23,
+		"firstName" : "M.R.",
+		"lastName" : "Carey"
+	},
+	{
+		"idauthor" : 24,
+		"firstName" : "Lewis",
+		"lastName" : "Carroll"
+	},
+	{
+		"idauthor" : 25,
+		"firstName" : "Joelle",
+		"lastName" : "Charbonneau"
+	},
+	{
+		"idauthor" : 26,
+		"firstName" : "Cassandra",
+		"lastName" : "Clare"
+	},
+	{
+		"idauthor" : 27,
+		"firstName" : "Suzanne",
+		"lastName" : "Collins"
+	},
+	{
+		"idauthor" : 28,
+		"firstName" : "Audrey",
+		"lastName" : "Coulthurst"
+	},
+	{
+		"idauthor" : 29,
+		"firstName" : "Sarah",
+		"lastName" : "Crossan"
+	},
+	{
+		"idauthor" : 30,
+		"firstName" : "James",
+		"lastName" : "Dashner"
+	},
+	{
+		"idauthor" : 31,
+		"firstName" : "Bavo",
+		"lastName" : "Dhooge"
+	},
+	{
+		"idauthor" : 32,
+		"firstName" : "Chris",
+		"lastName" : "D'Lacey"
+	},
+	{
+		"idauthor" : 33,
+		"firstName" : "Jennifer",
+		"lastName" : "Donnelly"
+	},
+	{
+		"idauthor" : 34,
+		"firstName" : "Cherry",
+		"lastName" : "Duyns"
+	},
+	{
+		"idauthor" : 35,
+		"firstName" : "Åke",
+		"lastName" : "Edwardson"
+	},
+	{
+		"idauthor" : 36,
+		"firstName" : "Kate",
+		"lastName" : "Elliott"
+	},
+	{
+		"idauthor" : 37,
+		"firstName" : "Marc",
+		"lastName" : "Elsberg"
+	},
+	{
+		"idauthor" : 38,
+		"firstName" : "Val",
+		"lastName" : "Emmich"
+	},
+	{
+		"idauthor" : 39,
+		"firstName" : "Thomas",
+		"lastName" : "Emson"
+	},
+	{
+		"idauthor" : 40,
+		"firstName" : "Kathryn",
+		"lastName" : "Evans"
+	},
+	{
+		"idauthor" : 41,
+		"firstName" : "Katherine",
+		"lastName" : "Ewell"
+	},
+	{
+		"idauthor" : 42,
+		"firstName" : "Amy",
+		"lastName" : "Ewing"
+	},
+	{
+		"idauthor" : 43,
+		"firstName" : "John",
+		"lastName" : "Flanagan"
+	},
+	{
+		"idauthor" : 44,
+		"firstName" : "Lucy",
+		"lastName" : "Foley"
+	},
+	{
+		"idauthor" : 45,
+		"firstName" : "Inger",
+		"lastName" : "Frimansson"
+	},
+	{
+		"idauthor" : 46,
+		"firstName" : "Cornelia",
+		"lastName" : "Funke"
+	},
+	{
+		"idauthor" : 47,
+		"firstName" : "Eva",
+		"lastName" : "Gabrielsson"
+	},
+	{
+		"idauthor" : 48,
+		"firstName" : "Nicci",
+		"lastName" : "Gerrard"
+	},
+	{
+		"idauthor" : 49,
+		"firstName" : "David",
+		"lastName" : "Gibbins"
+	},
+	{
+		"idauthor" : 50,
+		"firstName" : "I.A.",
+		"lastName" : "Gontsjarov"
+	},
+	{
+		"idauthor" : 51,
+		"firstName" : "Claudia",
+		"lastName" : "Gray"
+	},
+	{
+		"idauthor" : 52,
+		"firstName" : "John",
+		"lastName" : "Green"
+	},
+	{
+		"idauthor" : 53,
+		"firstName" : "Richard",
+		"lastName" : "Greene"
+	},
+	{
+		"idauthor" : 54,
+		"firstName" : "John",
+		"lastName" : "Grisham"
+	},
+	{
+		"idauthor" : 55,
+		"firstName" : "Mark",
+		"lastName" : "Haddon"
+	},
+	{
+		"idauthor" : 56,
+		"firstName" : "Daniel",
+		"lastName" : "Hanover"
+	},
+	{
+		"idauthor" : 57,
+		"firstName" : "Noah",
+		"lastName" : "Hawley"
+	},
+	{
+		"idauthor" : 58,
+		"firstName" : "Bernard",
+		"lastName" : "Hennen"
+	},
+	{
+		"idauthor" : 59,
+		"firstName" : "Peter",
+		"lastName" : "Høeg"
+	},
+	{
+		"idauthor" : 60,
+		"firstName" : "Sara",
+		"lastName" : "Holland"
+	},
+	{
+		"idauthor" : 61,
+		"firstName" : "Aldous",
+		"lastName" : "Huxley"
+	},
+	{
+		"idauthor" : 62,
+		"firstName" : "Anna",
+		"lastName" : "Jansson"
+	},
+	{
+		"idauthor" : 63,
+		"firstName" : "Maureen",
+		"lastName" : "Johnson"
+	},
+	{
+		"idauthor" : 64,
+		"firstName" : "Lauren",
+		"lastName" : "Kate"
+	},
+	{
+		"idauthor" : 65,
+		"firstName" : "Claire",
+		"lastName" : "King"
+	},
+	{
+		"idauthor" : 66,
+		"firstName" : "Steven",
+		"lastName" : "King"
+	},
+	{
+		"idauthor" : 67,
+		"firstName" : "Nina",
+		"lastName" : "LaCour"
+	},
+	{
+		"idauthor" : 68,
+		"firstName" : "Hugo",
+		"lastName" : "Lampo"
+	},
+	{
+		"idauthor" : 69,
+		"firstName" : "Åsa",
+		"lastName" : "Larsson"
+	},
+	{
+		"idauthor" : 70,
+		"firstName" : "Stieg",
+		"lastName" : "Larsson"
+	},
+	{
+		"idauthor" : 71,
+		"firstName" : "Estelle",
+		"lastName" : "Laure"
+	},
+	{
+		"idauthor" : 72,
+		"firstName" : "Steven",
+		"lastName" : "Levenson"
+	},
+	{
+		"idauthor" : 73,
+		"firstName" : "David",
+		"lastName" : "Levithan"
+	},
+	{
+		"idauthor" : 74,
+		"firstName" : "Imogen",
+		"lastName" : "Lloyd Webber"
+	},
+	{
+		"idauthor" : 75,
+		"firstName" : "Malinda",
+		"lastName" : "Lo"
+	},
+	{
+		"idauthor" : 76,
+		"firstName" : "E.",
+		"lastName" : "Lockhart"
+	},
+	{
+		"idauthor" : 77,
+		"firstName" : "Lois",
+		"lastName" : "Lowry"
+	},
+	{
+		"idauthor" : 78,
+		"firstName" : "Jim",
+		"lastName" : "Lynch"
+	},
+	{
+		"idauthor" : 79,
+		"firstName" : "Henning",
+		"lastName" : "Mankell"
+	},
+	{
+		"idauthor" : 80,
+		"firstName" : "Isaac",
+		"lastName" : "Marion"
+	},
+	{
+		"idauthor" : 81,
+		"firstName" : "George R.R.",
+		"lastName" : "Martin"
+	},
+	{
+		"idauthor" : 82,
+		"firstName" : "Katherine",
+		"lastName" : "May"
+	},
+	{
+		"idauthor" : 83,
+		"firstName" : "Collin",
+		"lastName" : "McAdam"
+	},
+	{
+		"idauthor" : 84,
+		"firstName" : "Mhairi",
+		"lastName" : "McFarlane"
+	},
+	{
+		"idauthor" : 85,
+		"firstName" : "Anne-Marie",
+		"lastName" : "McLemore"
+	},
+	{
+		"idauthor" : 86,
+		"firstName" : "Karen",
+		"lastName" : "McManus"
+	},
+	{
+		"idauthor" : 87,
+		"firstName" : "Richelle",
+		"lastName" : "Mead"
+	},
+	{
+		"idauthor" : 88,
+		"firstName" : "Madeline",
+		"lastName" : "Miller"
+	},
+	{
+		"idauthor" : 89,
+		"firstName" : "David",
+		"lastName" : "Mitchell"
+	},
+	{
+		"idauthor" : 90,
+		"firstName" : "Magnus",
+		"lastName" : "Montelius"
+	},
+	{
+		"idauthor" : 91,
+		"firstName" : "Liane",
+		"lastName" : "Moriarty"
+	},
+	{
+		"idauthor" : 92,
+		"firstName" : "Michael",
+		"lastName" : "Morpurgo"
+	},
+	{
+		"idauthor" : 93,
+		"firstName" : "Jojo",
+		"lastName" : "Moyes"
+	},
+	{
+		"idauthor" : 94,
+		"firstName" : "James",
+		"lastName" : "Mylet"
+	},
+	{
+		"idauthor" : 95,
+		"firstName" : "Lauren",
+		"lastName" : "Myracle"
+	},
+	{
+		"idauthor" : 96,
+		"firstName" : "Jandy",
+		"lastName" : "Nelson"
+	},
+	{
+		"idauthor" : 97,
+		"firstName" : "Håkan",
+		"lastName" : "Nesser"
+	},
+	{
+		"idauthor" : 98,
+		"firstName" : "Natasha",
+		"lastName" : "Ngan"
+	},
+	{
+		"idauthor" : 99,
+		"firstName" : "Audrey",
+		"lastName" : "Niffenegger"
+	},
+	{
+		"idauthor" : 100,
+		"firstName" : "Marieke",
+		"lastName" : "Nijkamp"
+	},
+	{
+		"idauthor" : 101,
+		"firstName" : "Jennifer",
+		"lastName" : "Niven"
+	},
+	{
+		"idauthor" : 102,
+		"firstName" : "Elizabeth",
+		"lastName" : "Nobel"
+	},
+	{
+		"idauthor" : 103,
+		"firstName" : "Alyson",
+		"lastName" : "Noël"
+	},
+	{
+		"idauthor" : 104,
+		"firstName" : "Dag",
+		"lastName" : "Öhrlund"
+	},
+	{
+		"idauthor" : 105,
+		"firstName" : "Thomas",
+		"lastName" : "Olde Heuvelt"
+	},
+	{
+		"idauthor" : 106,
+		"firstName" : "William",
+		"lastName" : "Osborne"
+	},
+	{
+		"idauthor" : 107,
+		"firstName" : "Christopher",
+		"lastName" : "Paolini"
+	},
+	{
+		"idauthor" : 108,
+		"firstName" : "Benj",
+		"lastName" : "Pasek"
+	},
+	{
+		"idauthor" : 109,
+		"firstName" : "Justin",
+		"lastName" : "Paul"
+	},
+	{
+		"idauthor" : 110,
+		"firstName" : "Malin",
+		"lastName" : "Persson Giolito"
+	},
+	{
+		"idauthor" : 111,
+		"firstName" : "Stefan",
+		"lastName" : "Petrucha"
+	},
+	{
+		"idauthor" : 112,
+		"firstName" : "Richard",
+		"lastName" : "Powers"
+	},
+	{
+		"idauthor" : 113,
+		"firstName" : "E. Annie",
+		"lastName" : "Proulx"
+	},
+	{
+		"idauthor" : 114,
+		"firstName" : "Brigitte",
+		"lastName" : "Raskin"
+	},
+	{
+		"idauthor" : 115,
+		"firstName" : "Sarah",
+		"lastName" : "Rees Brennan"
+	},
+	{
+		"idauthor" : 116,
+		"firstName" : "Rick",
+		"lastName" : "Riordan"
+	},
+	{
+		"idauthor" : 117,
+		"firstName" : "Rachel",
+		"lastName" : "Robison-Greene"
+	},
+	{
+		"idauthor" : 118,
+		"firstName" : "Merit",
+		"lastName" : "Roodbeen"
+	},
+	{
+		"idauthor" : 119,
+		"firstName" : "Philip",
+		"lastName" : "Roth"
+	},
+	{
+		"idauthor" : 120,
+		"firstName" : "Veronica",
+		"lastName" : "Roth"
+	},
+	{
+		"idauthor" : 121,
+		"firstName" : "Rainbow",
+		"lastName" : "Rowell"
+	},
+	{
+		"idauthor" : 122,
+		"firstName" : "Benjamin",
+		"lastName" : "Sáenz Alire"
+	},
+	{
+		"idauthor" : 123,
+		"firstName" : "Anna",
+		"lastName" : "Sewell"
+	},
+	{
+		"idauthor" : 124,
+		"firstName" : "Adam",
+		"lastName" : "Silvera"
+	},
+	{
+		"idauthor" : 125,
+		"firstName" : "Graeme",
+		"lastName" : "Simsion"
+	},
+	{
+		"idauthor" : 126,
+		"firstName" : "Maj",
+		"lastName" : "Sjöwall"
+	},
+	{
+		"idauthor" : 127,
+		"firstName" : "Carry",
+		"lastName" : "Slee"
+	},
+	{
+		"idauthor" : 128,
+		"firstName" : "Kirsten",
+		"lastName" : "Smith"
+	},
+	{
+		"idauthor" : 129,
+		"firstName" : "Paul",
+		"lastName" : "Southern"
+	},
+	{
+		"idauthor" : 130,
+		"firstName" : "Nicholas",
+		"lastName" : "Sparks"
+	},
+	{
+		"idauthor" : 131,
+		"firstName" : "Meagan",
+		"lastName" : "Spooner"
+	},
+	{
+		"idauthor" : 132,
+		"firstName" : "Maggie",
+		"lastName" : "Stiefvater"
+	},
+	{
+		"idauthor" : 133,
+		"firstName" : "Bram",
+		"lastName" : "Stoker"
+	},
+	{
+		"idauthor" : 134,
+		"firstName" : "Sara",
+		"lastName" : "Stridsberg"
+	},
+	{
+		"idauthor" : 135,
+		"firstName" : "Jonathan",
+		"lastName" : "Swift"
+	},
+	{
+		"idauthor" : 136,
+		"firstName" : "Thomas",
+		"lastName" : "Taylor"
+	},
+	{
+		"idauthor" : 137,
+		"firstName" : "Cristin",
+		"lastName" : "Terrill"
+	},
+	{
+		"idauthor" : 138,
+		"firstName" : "Johan",
+		"lastName" : "Theorin"
+	},
+	{
+		"idauthor" : 139,
+		"firstName" : "Frank",
+		"lastName" : "Thilliez"
+	},
+	{
+		"idauthor" : 140,
+		"firstName" : "Matthew",
+		"lastName" : "Thomas"
+	},
+	{
+		"idauthor" : 141,
+		"firstName" : "Georgie",
+		"lastName" : "Thompson"
+	},
+	{
+		"idauthor" : 142,
+		"firstName" : "Karen",
+		"lastName" : "Thompson Walker"
+	},
+	{
+		"idauthor" : 143,
+		"firstName" : "J.R.R.",
+		"lastName" : "Tolkien"
+	},
+	{
+		"idauthor" : 144,
+		"firstName" : "Annie",
+		"lastName" : "Van Keymeulen"
+	},
+	{
+		"idauthor" : 145,
+		"firstName" : "Jules",
+		"lastName" : "Verne"
+	},
+	{
+		"idauthor" : 146,
+		"firstName" : "Veronica",
+		"lastName" : "von Schenck"
+	},
+	{
+		"idauthor" : 147,
+		"firstName" : "Per",
+		"lastName" : "Wahlöö"
+	},
+	{
+		"idauthor" : 148,
+		"firstName" : "Katarina",
+		"lastName" : "Wennstam"
+	},
+	{
+		"idauthor" : 149,
+		"firstName" : "Lucie",
+		"lastName" : "Whitehouse"
+	},
+	{
+		"idauthor" : 150,
+		"firstName" : "Jen",
+		"lastName" : "Wilde"
+	},
+	{
+		"idauthor" : 151,
+		"firstName" : "Dick",
+		"lastName" : "Wolf"
+	},
+	{
+		"idauthor" : 152,
+		"firstName" : "Robyn",
+		"lastName" : "Young"
+	}
+]

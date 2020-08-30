@@ -1,0 +1,862 @@
+[
+	{
+		"book_idbook" : 14,
+		"author_idauthor" : 1
+	},
+	{
+		"book_idbook" : 16,
+		"author_idauthor" : 2
+	},
+	{
+		"book_idbook" : 106,
+		"author_idauthor" : 2
+	},
+	{
+		"book_idbook" : 15,
+		"author_idauthor" : 3
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 4
+	},
+	{
+		"book_idbook" : 107,
+		"author_idauthor" : 5
+	},
+	{
+		"book_idbook" : 17,
+		"author_idauthor" : 6
+	},
+	{
+		"book_idbook" : 108,
+		"author_idauthor" : 7
+	},
+	{
+		"book_idbook" : 109,
+		"author_idauthor" : 7
+	},
+	{
+		"book_idbook" : 18,
+		"author_idauthor" : 8
+	},
+	{
+		"book_idbook" : 93,
+		"author_idauthor" : 9
+	},
+	{
+		"book_idbook" : 94,
+		"author_idauthor" : 9
+	},
+	{
+		"book_idbook" : 95,
+		"author_idauthor" : 9
+	},
+	{
+		"book_idbook" : 96,
+		"author_idauthor" : 9
+	},
+	{
+		"book_idbook" : 19,
+		"author_idauthor" : 10
+	},
+	{
+		"book_idbook" : 20,
+		"author_idauthor" : 11
+	},
+	{
+		"book_idbook" : 76,
+		"author_idauthor" : 12
+	},
+	{
+		"book_idbook" : 173,
+		"author_idauthor" : 12
+	},
+	{
+		"book_idbook" : 174,
+		"author_idauthor" : 13
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 13
+	},
+	{
+		"book_idbook" : 175,
+		"author_idauthor" : 14
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 14
+	},
+	{
+		"book_idbook" : 21,
+		"author_idauthor" : 15
+	},
+	{
+		"book_idbook" : 176,
+		"author_idauthor" : 15
+	},
+	{
+		"book_idbook" : 110,
+		"author_idauthor" : 16
+	},
+	{
+		"book_idbook" : 22,
+		"author_idauthor" : 17
+	},
+	{
+		"book_idbook" : 111,
+		"author_idauthor" : 18
+	},
+	{
+		"book_idbook" : 78,
+		"author_idauthor" : 19
+	},
+	{
+		"book_idbook" : 23,
+		"author_idauthor" : 20
+	},
+	{
+		"book_idbook" : 112,
+		"author_idauthor" : 21
+	},
+	{
+		"book_idbook" : 113,
+		"author_idauthor" : 22
+	},
+	{
+		"book_idbook" : 24,
+		"author_idauthor" : 23
+	},
+	{
+		"book_idbook" : 114,
+		"author_idauthor" : 24
+	},
+	{
+		"book_idbook" : 115,
+		"author_idauthor" : 25
+	},
+	{
+		"book_idbook" : 116,
+		"author_idauthor" : 25
+	},
+	{
+		"book_idbook" : 117,
+		"author_idauthor" : 25
+	},
+	{
+		"book_idbook" : 76,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 118,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 173,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 174,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 175,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 176,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 177,
+		"author_idauthor" : 26
+	},
+	{
+		"book_idbook" : 25,
+		"author_idauthor" : 27
+	},
+	{
+		"book_idbook" : 26,
+		"author_idauthor" : 27
+	},
+	{
+		"book_idbook" : 27,
+		"author_idauthor" : 27
+	},
+	{
+		"book_idbook" : 119,
+		"author_idauthor" : 28
+	},
+	{
+		"book_idbook" : 120,
+		"author_idauthor" : 29
+	},
+	{
+		"book_idbook" : 28,
+		"author_idauthor" : 30
+	},
+	{
+		"book_idbook" : 29,
+		"author_idauthor" : 30
+	},
+	{
+		"book_idbook" : 30,
+		"author_idauthor" : 30
+	},
+	{
+		"book_idbook" : 31,
+		"author_idauthor" : 31
+	},
+	{
+		"book_idbook" : 121,
+		"author_idauthor" : 32
+	},
+	{
+		"book_idbook" : 32,
+		"author_idauthor" : 33
+	},
+	{
+		"book_idbook" : 33,
+		"author_idauthor" : 33
+	},
+	{
+		"book_idbook" : 34,
+		"author_idauthor" : 33
+	},
+	{
+		"book_idbook" : 122,
+		"author_idauthor" : 33
+	},
+	{
+		"book_idbook" : 79,
+		"author_idauthor" : 34
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 35
+	},
+	{
+		"book_idbook" : 35,
+		"author_idauthor" : 36
+	},
+	{
+		"book_idbook" : 36,
+		"author_idauthor" : 37
+	},
+	{
+		"book_idbook" : 124,
+		"author_idauthor" : 38
+	},
+	{
+		"book_idbook" : 123,
+		"author_idauthor" : 39
+	},
+	{
+		"book_idbook" : 125,
+		"author_idauthor" : 40
+	},
+	{
+		"book_idbook" : 37,
+		"author_idauthor" : 41
+	},
+	{
+		"book_idbook" : 38,
+		"author_idauthor" : 42
+	},
+	{
+		"book_idbook" : 39,
+		"author_idauthor" : 42
+	},
+	{
+		"book_idbook" : 40,
+		"author_idauthor" : 43
+	},
+	{
+		"book_idbook" : 41,
+		"author_idauthor" : 44
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 45
+	},
+	{
+		"book_idbook" : 42,
+		"author_idauthor" : 46
+	},
+	{
+		"book_idbook" : 43,
+		"author_idauthor" : 46
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 47
+	},
+	{
+		"book_idbook" : 126,
+		"author_idauthor" : 48
+	},
+	{
+		"book_idbook" : 127,
+		"author_idauthor" : 49
+	},
+	{
+		"book_idbook" : 80,
+		"author_idauthor" : 50
+	},
+	{
+		"book_idbook" : 128,
+		"author_idauthor" : 51
+	},
+	{
+		"book_idbook" : 129,
+		"author_idauthor" : 51
+	},
+	{
+		"book_idbook" : 130,
+		"author_idauthor" : 51
+	},
+	{
+		"book_idbook" : 97,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 98,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 99,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 100,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 101,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 178,
+		"author_idauthor" : 52
+	},
+	{
+		"book_idbook" : 179,
+		"author_idauthor" : 53
+	},
+	{
+		"book_idbook" : 131,
+		"author_idauthor" : 54
+	},
+	{
+		"book_idbook" : 132,
+		"author_idauthor" : 55
+	},
+	{
+		"book_idbook" : 44,
+		"author_idauthor" : 56
+	},
+	{
+		"book_idbook" : 45,
+		"author_idauthor" : 57
+	},
+	{
+		"book_idbook" : 46,
+		"author_idauthor" : 58
+	},
+	{
+		"book_idbook" : 81,
+		"author_idauthor" : 59
+	},
+	{
+		"book_idbook" : 133,
+		"author_idauthor" : 60
+	},
+	{
+		"book_idbook" : 134,
+		"author_idauthor" : 61
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 62
+	},
+	{
+		"book_idbook" : 177,
+		"author_idauthor" : 63
+	},
+	{
+		"book_idbook" : 178,
+		"author_idauthor" : 63
+	},
+	{
+		"book_idbook" : 135,
+		"author_idauthor" : 64
+	},
+	{
+		"book_idbook" : 136,
+		"author_idauthor" : 64
+	},
+	{
+		"book_idbook" : 137,
+		"author_idauthor" : 64
+	},
+	{
+		"book_idbook" : 138,
+		"author_idauthor" : 64
+	},
+	{
+		"book_idbook" : 139,
+		"author_idauthor" : 64
+	},
+	{
+		"book_idbook" : 47,
+		"author_idauthor" : 65
+	},
+	{
+		"book_idbook" : 140,
+		"author_idauthor" : 65
+	},
+	{
+		"book_idbook" : 141,
+		"author_idauthor" : 67
+	},
+	{
+		"book_idbook" : 82,
+		"author_idauthor" : 68
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 69
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 70
+	},
+	{
+		"book_idbook" : 48,
+		"author_idauthor" : 71
+	},
+	{
+		"book_idbook" : 124,
+		"author_idauthor" : 72
+	},
+	{
+		"book_idbook" : 101,
+		"author_idauthor" : 73
+	},
+	{
+		"book_idbook" : 142,
+		"author_idauthor" : 73
+	},
+	{
+		"book_idbook" : 181,
+		"author_idauthor" : 74
+	},
+	{
+		"book_idbook" : 143,
+		"author_idauthor" : 75
+	},
+	{
+		"book_idbook" : 144,
+		"author_idauthor" : 76
+	},
+	{
+		"book_idbook" : 1,
+		"author_idauthor" : 77
+	},
+	{
+		"book_idbook" : 145,
+		"author_idauthor" : 78
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 79
+	},
+	{
+		"book_idbook" : 49,
+		"author_idauthor" : 80
+	},
+	{
+		"book_idbook" : 87,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 88,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 89,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 90,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 91,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 92,
+		"author_idauthor" : 81
+	},
+	{
+		"book_idbook" : 146,
+		"author_idauthor" : 82
+	},
+	{
+		"book_idbook" : 147,
+		"author_idauthor" : 83
+	},
+	{
+		"book_idbook" : 148,
+		"author_idauthor" : 84
+	},
+	{
+		"book_idbook" : 12,
+		"author_idauthor" : 85
+	},
+	{
+		"book_idbook" : 149,
+		"author_idauthor" : 86
+	},
+	{
+		"book_idbook" : 50,
+		"author_idauthor" : 87
+	},
+	{
+		"book_idbook" : 13,
+		"author_idauthor" : 88
+	},
+	{
+		"book_idbook" : 150,
+		"author_idauthor" : 89
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 90
+	},
+	{
+		"book_idbook" : 51,
+		"author_idauthor" : 91
+	},
+	{
+		"book_idbook" : 151,
+		"author_idauthor" : 92
+	},
+	{
+		"book_idbook" : 52,
+		"author_idauthor" : 93
+	},
+	{
+		"book_idbook" : 53,
+		"author_idauthor" : 93
+	},
+	{
+		"book_idbook" : 54,
+		"author_idauthor" : 93
+	},
+	{
+		"book_idbook" : 55,
+		"author_idauthor" : 94
+	},
+	{
+		"book_idbook" : 178,
+		"author_idauthor" : 95
+	},
+	{
+		"book_idbook" : 152,
+		"author_idauthor" : 96
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 97
+	},
+	{
+		"book_idbook" : 10,
+		"author_idauthor" : 98
+	},
+	{
+		"book_idbook" : 11,
+		"author_idauthor" : 98
+	},
+	{
+		"book_idbook" : 153,
+		"author_idauthor" : 99
+	},
+	{
+		"book_idbook" : 154,
+		"author_idauthor" : 100
+	},
+	{
+		"book_idbook" : 155,
+		"author_idauthor" : 101
+	},
+	{
+		"book_idbook" : 83,
+		"author_idauthor" : 102
+	},
+	{
+		"book_idbook" : 156,
+		"author_idauthor" : 103
+	},
+	{
+		"book_idbook" : 157,
+		"author_idauthor" : 103
+	},
+	{
+		"book_idbook" : 158,
+		"author_idauthor" : 103
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 104
+	},
+	{
+		"book_idbook" : 56,
+		"author_idauthor" : 105
+	},
+	{
+		"book_idbook" : 159,
+		"author_idauthor" : 106
+	},
+	{
+		"book_idbook" : 57,
+		"author_idauthor" : 107
+	},
+	{
+		"book_idbook" : 58,
+		"author_idauthor" : 107
+	},
+	{
+		"book_idbook" : 59,
+		"author_idauthor" : 107
+	},
+	{
+		"book_idbook" : 60,
+		"author_idauthor" : 107
+	},
+	{
+		"book_idbook" : 124,
+		"author_idauthor" : 108
+	},
+	{
+		"book_idbook" : 124,
+		"author_idauthor" : 109
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 110
+	},
+	{
+		"book_idbook" : 86,
+		"author_idauthor" : 111
+	},
+	{
+		"book_idbook" : 160,
+		"author_idauthor" : 112
+	},
+	{
+		"book_idbook" : 77,
+		"author_idauthor" : 113
+	},
+	{
+		"book_idbook" : 84,
+		"author_idauthor" : 114
+	},
+	{
+		"book_idbook" : 177,
+		"author_idauthor" : 115
+	},
+	{
+		"book_idbook" : 2,
+		"author_idauthor" : 116
+	},
+	{
+		"book_idbook" : 3,
+		"author_idauthor" : 116
+	},
+	{
+		"book_idbook" : 4,
+		"author_idauthor" : 116
+	},
+	{
+		"book_idbook" : 5,
+		"author_idauthor" : 116
+	},
+	{
+		"book_idbook" : 6,
+		"author_idauthor" : 116
+	},
+	{
+		"book_idbook" : 179,
+		"author_idauthor" : 117
+	},
+	{
+		"book_idbook" : 75,
+		"author_idauthor" : 118
+	},
+	{
+		"book_idbook" : 161,
+		"author_idauthor" : 119
+	},
+	{
+		"book_idbook" : 62,
+		"author_idauthor" : 120
+	},
+	{
+		"book_idbook" : 63,
+		"author_idauthor" : 120
+	},
+	{
+		"book_idbook" : 64,
+		"author_idauthor" : 120
+	},
+	{
+		"book_idbook" : 7,
+		"author_idauthor" : 121
+	},
+	{
+		"book_idbook" : 61,
+		"author_idauthor" : 121
+	},
+	{
+		"book_idbook" : 8,
+		"author_idauthor" : 122
+	},
+	{
+		"book_idbook" : 162,
+		"author_idauthor" : 123
+	},
+	{
+		"book_idbook" : 163,
+		"author_idauthor" : 124
+	},
+	{
+		"book_idbook" : 164,
+		"author_idauthor" : 124
+	},
+	{
+		"book_idbook" : 65,
+		"author_idauthor" : 125
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 126
+	},
+	{
+		"book_idbook" : 66,
+		"author_idauthor" : 127
+	},
+	{
+		"book_idbook" : 9,
+		"author_idauthor" : 128
+	},
+	{
+		"book_idbook" : 166,
+		"author_idauthor" : 129
+	},
+	{
+		"book_idbook" : 67,
+		"author_idauthor" : 130
+	},
+	{
+		"book_idbook" : 165,
+		"author_idauthor" : 131
+	},
+	{
+		"book_idbook" : 68,
+		"author_idauthor" : 132
+	},
+	{
+		"book_idbook" : 167,
+		"author_idauthor" : 133
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 134
+	},
+	{
+		"book_idbook" : 168,
+		"author_idauthor" : 135
+	},
+	{
+		"book_idbook" : 69,
+		"author_idauthor" : 136
+	},
+	{
+		"book_idbook" : 169,
+		"author_idauthor" : 137
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 138
+	},
+	{
+		"book_idbook" : 70,
+		"author_idauthor" : 139
+	},
+	{
+		"book_idbook" : 71,
+		"author_idauthor" : 140
+	},
+	{
+		"book_idbook" : 181,
+		"author_idauthor" : 141
+	},
+	{
+		"book_idbook" : 72,
+		"author_idauthor" : 142
+	},
+	{
+		"book_idbook" : 102,
+		"author_idauthor" : 143
+	},
+	{
+		"book_idbook" : 103,
+		"author_idauthor" : 143
+	},
+	{
+		"book_idbook" : 104,
+		"author_idauthor" : 143
+	},
+	{
+		"book_idbook" : 105,
+		"author_idauthor" : 143
+	},
+	{
+		"book_idbook" : 85,
+		"author_idauthor" : 144
+	},
+	{
+		"book_idbook" : 170,
+		"author_idauthor" : 145
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 146
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 147
+	},
+	{
+		"book_idbook" : 180,
+		"author_idauthor" : 148
+	},
+	{
+		"book_idbook" : 171,
+		"author_idauthor" : 149
+	},
+	{
+		"book_idbook" : 172,
+		"author_idauthor" : 150
+	},
+	{
+		"book_idbook" : 73,
+		"author_idauthor" : 151
+	},
+	{
+		"book_idbook" : 74,
+		"author_idauthor" : 152
+	}
+]
